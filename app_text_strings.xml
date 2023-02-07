@@ -1,0 +1,17 @@
+<resources>
+    <string name="log_in">Zaloguj się</string>
+    <string name="before_you_go_to_google">Zanim przejdziesz do Google</string>
+    <string name="accept_all">Zaakceptuj wszystko</string>
+    <string name="reject_all">Odrzuć wszystko</string>
+    <string name="more_options">Więcej opcji</string>
+    <string name="google_search">Szukaj w Google</string>
+    <string name="fluke">Szczęśliwy traf</string>
+    <string name="allegro_url">https://allegro.pl</string>
+    <string name="allegro_rodo_popup">Dbamy o Twoją prywatność</string>
+    <string name="allegro_title">Allegro - atrakcyjne ceny - Strona Główna</string>
+    <string name="allegro_copy">Allegro - Najlepsze ceny oraz gwarancja bezpiecznych zakupów!</string>
+    <string name="allegro_title2">Allegro.pl - wygodne i bezpieczne zakupy online, największy wybór ofert</string>
+
+
+
+</resources>
